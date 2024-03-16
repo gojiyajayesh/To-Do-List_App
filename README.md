@@ -22,12 +22,10 @@ Welcome to the ToDoList Android app - your ultimate task management solution! St
 Take a look at what awaits you:
 
 ![Screenshot 1](images/ss_1.png)
-<br>
 ![Screenshot 1](images/ss_2.png)
-<br>
 ![Screenshot 1](images/ss_3.png)
-<br>
 ![Screenshot 1](images/ss_4.png)
+
 ## Get Started 🚀
 
 1. **Download and Install**: Get the app up and running on your Android device.
@@ -46,16 +44,20 @@ We welcome contributions! Fork the repository and submit your pull requests to m
 ## Roadmap 🗺
 
 Exciting plans ahead! Here's what's in store:
+
 - **Calendar View**: Visualize your tasks with a calendar view.
 - **UI Enhancements**: Elevate your experience with improved user interface.
 
 ## Installation ⚙
 
 Ready to get started? Follow these steps:
-1. **Clone**: Clone the repository to your local machine. 
+
+1. **Clone**: Clone the repository to your local machine.
+
   ```bash
-   git clone https://github.com/gojiyajayesh/ChatVista.git
+   https://github.com/gojiyajayesh/To-Do-List_App.git
    ```
+
 2. **Open & Run**: Fire up Android Studio, open the project, and run it on your device or emulator.
 
 Ready to transform the way you manage tasks? Let's do this! 💪
