@@ -2,7 +2,7 @@
 
 Welcome to the ToDoList Android app - your ultimate task management solution! Stay organized, efficient, and on top of your tasks with our user-friendly interface and powerful features.
 
-[![Profile LinkedIn](https://img.shields.io/badge/profile-gojiyajayesh-blue.svg)](https://www.linkedin.com/in/jayesh-gojiya-6528a22ab/)
+[![Profile LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-gojiyajayesh-blue.svg)](https://www.linkedin.com/in/jayesh-gojiya-6528a22ab/)
 [![GitHub repo](https://img.shields.io/github/issues/gojiyajayesh/ChatVista)](https://github.com/gojiyajayesh/To-Do-List_App.git)
 [![GitHub stars](https://img.shields.io/github/stars/gojiyajayesh/ChatVista)](https://github.com/gojiyajayesh/To-Do-List_App/stargazers)
 
