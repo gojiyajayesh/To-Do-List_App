@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:key="pref_default_reminder_time"
+        android:defaultValue="86400"
+        android:entries="@array/default_reminder_times_human"
+        android:entryValues="@array/default_reminder_times"
+        android:title="@string/default_reminder_time" />
+
+    <SwitchPreference
+        android:id="@+id/switch_notifysound"
+        android:defaultValue="true"
+        android:key="notify"
+        android:title="@string/notify" />
+    <SwitchPreference
+        android:key="pref_pin_enabled"
+        android:defaultValue="false"
+        android:title="@string/pin_enabled" />
+
+    <EditTextPreference
+        android:defaultValue=""
+        android:dependency="pref_pin_enabled"
+        android:dialogMessage="@string/add_pin"
+        android:dialogTitle="@string/set_pin"
+        android:inputType="numberPassword"
+        android:key="pref_pin"
+        android:maxLength="32"
+        android:password="true"
+        android:title="@string/set_pin" />
+
+    <SwitchPreference
+        android:id="@+id/switch_progress"
+        android:key="pref_progress"
+        android:defaultValue="false"
+        android:title="@string/auto_progress" />
+
+
+    <!--TODO NumberPicker for reapting interval of alarm notifications -->
+
+</PreferenceScreen>
